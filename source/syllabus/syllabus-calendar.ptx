@@ -8,16 +8,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Geometry, metrics</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Isometries</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>Lines in R^2 (no book)</cell>
         </row>
     </tabular>
     </p>
@@ -28,16 +25,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>More lines, rays, and segments</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Angles</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>Congruence via motions</cell>
         </row>
     </tabular>
     </p>
@@ -48,16 +42,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Euclidean Axioms - Introduce mini-project</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Student Work</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>Euclidean Axiom Proofs</cell>
         </row>
     </tabular>
     </p>
@@ -68,16 +59,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Zero and Straight Angles</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Vertical Angles, Point Reflections</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>"Proof workshop"</cell>
         </row>
     </tabular>
     </p>
@@ -88,16 +76,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Separation and Half-Planes</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Pasch's Theorem</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>Triangle Existence(?)</cell>
         </row>
     </tabular>
     </p>
@@ -108,16 +93,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>SAS</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>ASA and Isosceles</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>SSS</cell>
         </row>
     </tabular>
     </p>
@@ -128,16 +110,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Triangle Determination</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Review/Flex</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>Exam 1</cell>
         </row>
     </tabular>
     </p>
@@ -148,16 +127,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Perpendicular Bisector</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Uniqueness of Perpendicular</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>Reflection Across a Line</cell>
         </row>
     </tabular>
     </p>
@@ -168,13 +144,10 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Circles</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Similarity Conditions</cell>
         </row>
         <row>
             <cell>Friday</cell> <cell>Section?, Topic</cell>
@@ -188,16 +161,13 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
+            <cell>Monday</cell> <cell>Parallel Line Theorem</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
+            <cell>Wednesday</cell> <cell>Alternate Interior Angles, Consequences of Euclid V</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Friday</cell> <cell>Triangle Sum Theorem</cell>
         </row>
     </tabular>
     </p>
@@ -212,9 +182,6 @@
         </row>
         <row>
             <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
         </row>
         <row>
             <cell>Friday</cell> <cell>Section?, Topic</cell>
@@ -234,9 +201,6 @@
             <cell>Wednesday</cell> <cell>Section?, Topic</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
             <cell>Friday</cell> <cell>Section?, Topic</cell>
         </row>
     </tabular>
@@ -254,9 +218,6 @@
             <cell>Wednesday</cell> <cell>Section?, Topic</cell>
         </row>
         <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
             <cell>Friday</cell> <cell>Section?, Topic</cell>
         </row>
     </tabular>
@@ -272,9 +233,6 @@
         </row>
         <row>
             <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
         </row>
         <row>
             <cell>Friday</cell> <cell>Section?, Topic</cell>
